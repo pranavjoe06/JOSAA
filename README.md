@@ -1,4 +1,4 @@
-[seat_confirm.txt](https://github.com/pranavjoe06/JOSAA/files/12086451/seat_confirm.txt)[round2_allot.txt](https://github.com/pranavjoe06/JOSAA/files/12086448/round2_allot.txt)# SOFTWARE SYSTEM FOR ENGINEERING FOR JOINT SEAT ALLOCATION
+# SOFTWARE SYSTEM FOR ENGINEERING FOR JOINT SEAT ALLOCATION
 The code below uses the Gale-Shapley Algorithm to allocate seats from two sets of institutes (IITs and NITs). The institutes have a number of branches and finite number of seats.
 Candidates can login into the portal and update their preferences. After that a random set of preferences are generated for candidates. The seats are then allocated using the Gale-Shapley Algorithm. The candidate can then accept or deny seat. The unallotted students are then complied into the second round of counselling.
 
