@@ -5,7 +5,7 @@ Candidates can login into the portal and update their preferences. After that a 
 ## Files
 The folder contains 7 text files namely - colleges.txt, preferences.txt, ranklist_adv.txt, ranklist_mains.txt, round1_allot.txt, round2_allot.txt, seat_confirm.txt.
 main.c is the single executable c file present. 
-Details of the candidates are present in the ranklist_mains.txt and ranklist_adv.txt
+Details of the candidates are present in the ranklist_mains.txt and ranklist_adv.txt.
 [preferences.txt](https://github.com/pranavjoe06/JOSAA/files/12086139/preferences.txt),
 [colleges.txt](https://github.com/pranavjoe06/JOSAA/files/12086137/colleges.txt),
 [ranklist_adv.txt](https://github.com/pranavjoe06/JOSAA/files/12086153/ranklist_adv.txt),
@@ -16,7 +16,7 @@ Details of the candidates are present in the ranklist_mains.txt and ranklist_adv
 
 
 ## Execution
-
+The main.c file is exceuted and from the ranklist_main.txt file the Register number and Date of Birth of candidate can be used to login and update preferences. Preferences to be given in the format "IITname_branch".
 
 
 
