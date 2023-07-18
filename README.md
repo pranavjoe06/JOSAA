@@ -6,12 +6,12 @@ Candidates can login into the portal and update their preferences. After that a 
 The folder contains 7 text files namely - colleges.txt, preferences.txt, ranklist_adv.txt, ranklist_mains.txt, round1_allot.txt, round2_allot.txt, seat_confirm.txt.
 main.c is the single executable c file present. 
 Details of the candidates are present in the ranklist_mains.txt and ranklist_adv.txt
-[preferences.txt](https://github.com/pranavjoe06/JOSAA/files/12086139/preferences.txt)
-[colleges.txt](https://github.com/pranavjoe06/JOSAA/files/12086137/colleges.txt)
-[ranklist_adv.txt](https://github.com/pranavjoe06/JOSAA/files/12086153/ranklist_adv.txt)
-[ranklist_mains.txt](https://github.com/pranavjoe06/JOSAA/files/12086248/ranklist_mains.txt)
-[round1_allot.txt](https://github.com/pranavjoe06/JOSAA/files/12086445/round1_allot.txt)
-[seat_confirm.txt](https://github.com/pranavjoe06/JOSAA/files/12086530/seat_confirm.txt)
+[preferences.txt](https://github.com/pranavjoe06/JOSAA/files/12086139/preferences.txt),
+[colleges.txt](https://github.com/pranavjoe06/JOSAA/files/12086137/colleges.txt),
+[ranklist_adv.txt](https://github.com/pranavjoe06/JOSAA/files/12086153/ranklist_adv.txt),
+[ranklist_mains.txt](https://github.com/pranavjoe06/JOSAA/files/12086248/ranklist_mains.txt),
+[round1_allot.txt](https://github.com/pranavjoe06/JOSAA/files/12086445/round1_allot.txt),
+[seat_confirm.txt](https://github.com/pranavjoe06/JOSAA/files/12086530/seat_confirm.txt),
 [round2_allot.txt](https://github.com/pranavjoe06/JOSAA/files/12086525/round2_allot.txt)
 
 
